@@ -16,3 +16,8 @@ print(-2.5)
 #For integers
 print(23)
 print(500)
+
+#Using big numbers and very tiny numbers like exponetial
+
+print(10E10)
+print(4.13e-9)
